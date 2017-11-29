@@ -1,0 +1,2 @@
+https://www.javatpoint.com/static-keyword-in-java
+static aitab mälu kokku hoida, ehk siis kui kasutada ilma staticuta, siis iga uue objekti loomisel eraldatakse igale objektile eraldi mälu, juhul kui kasutame staticut siis eraldatakse mälu aind 1 korra, seega on see säästlikum!
